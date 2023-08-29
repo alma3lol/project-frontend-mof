@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { RegisterComponent } from './register/register.component';
 import { AlasekriComponent } from './alasekri/alasekri.component';
+import { AimenComponent } from './aimen/aimen.component';
+import { HasanComponent } from './hasan/hasan.component';
+import { MohamedComponent } from './mohamed/mohamed.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     RegisterComponent,
-    AlasekriComponent
+    AlasekriComponent,
+    AimenComponent,
+    HasanComponent,
+    MohamedComponent
   ],
   imports: [
     BrowserModule,
