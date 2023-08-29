@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { RegisterComponent } from './register/register.component';
+import { AlasekriComponent } from './alasekri/alasekri.component';
 import { AimenComponent } from './aimen/aimen.component';
 import { HasanComponent } from './hasan/hasan.component';
 import { MohamedComponent } from './mohamed/mohamed.component';
@@ -12,6 +13,7 @@ import { MohamedComponent } from './mohamed/mohamed.component';
   declarations: [
     AppComponent,
     RegisterComponent,
+    AlasekriComponent,
     AimenComponent,
     HasanComponent,
     MohamedComponent
