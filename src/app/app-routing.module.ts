@@ -20,6 +20,10 @@ const routes: Routes = [
     component: AlasekriComponent
   },
   {
+    path: 'mohamed',
+    component: MohamedComponent
+  },
+  {
     path: 'hasan',
     component: HasanComponent
   },
