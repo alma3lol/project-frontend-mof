@@ -8,22 +8,6 @@ import { RegisterComponent } from './register/register.component';
 
 const routes: Routes = [
   {
-    path: 'aimen',
-    component: AimenComponent
-  },
-  {
-    path: 'malek',
-    component: AlasekriComponent
-  },
-  {
-    path: 'hasan',
-    component: HasanComponent
-  },
-  {
-    path: 'mohammed',
-    component: MohamedComponent
-  },
-  {
     path: 'register',
     component: RegisterComponent
   },
