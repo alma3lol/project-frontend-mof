@@ -12,6 +12,10 @@ const routes: Routes = [
     component: RegisterComponent
   },
   {
+    path: 'aimen',
+    component: AimenComponent
+  },
+  {
     path: 'malek',
     component: AlasekriComponent
   },
