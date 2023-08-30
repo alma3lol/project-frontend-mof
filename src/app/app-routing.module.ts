@@ -15,6 +15,10 @@ const routes: Routes = [
     path: 'malek',
     component: AlasekriComponent
   },
+  {
+    path: 'mohamed',
+    component: MohamedComponent
+  },
 ];
 
 @NgModule({
